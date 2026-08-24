@@ -1,4 +1,4 @@
-<img width="498" height="299" alt="image" src="https://github.com/user-attachments/assets/aa013efa-19bb-4cb8-92f0-ea7d28cb63e1" /><!--
+<!--
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣶⣧⣐⠍⢙⣀⣼⣿⣿⣅⡐⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠉⠙⠻⣿⣿⣿⣿⣿⣯⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -50,7 +50,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/TVQh8e98K9IAAAAj/isaac-specialist.gif" width="100">
-<img src="https://media.tenor.com/az5VPJJfMiwAAAAi/luckystar-dance.gif" width="100">
+<img src="https://media.tenor.com/xXK_hvWITqEAAAAi/niko-dance.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
