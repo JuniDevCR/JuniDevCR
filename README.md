@@ -111,29 +111,13 @@ Users shouldn't have to sell their soul to customize a button.
 
 ---
 
-# 💻 WHAT I DO
-
-<div align="center">
-
-|   🌐 Web   |   🎮 Games   | 🧪 Experiments |
-| :--------: | :----------: | :------------: |
-|    HTML    |     Unity    |  Random ideas  |
-|     CSS    |   2D Games   |   Prototypes   |
-| JavaScript |   Pixel Art  | Weird websites |
-|     PHP    |  Game Design | Learning stuff |
-|   Python   | Storytelling |  Breaking code |
-
-</div>
-
----
-
 # 🛠️ MY CURRENT TECH STACK
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python," />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 ### Tools
 
