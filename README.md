@@ -46,11 +46,6 @@ Muchísimas gracias al creador original de este pedazo de arte ASCII. 🖤
 *"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
 
 Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JuniDevCR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
 <br>
 
 <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100">
@@ -64,14 +59,6 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 </a>
 
 <br><br>
-
----
-
-### 🪐 WHAT I'M EXPERIMENTING WITH
-* 🌐 **Web Design & Interactivity:** Creando prototipos y espacios web divertidos desde cero.
-* 🐧 **Linux & Terminal:** Aprendiendo a dominar el entorno y romper cosas para luego arreglarlas.
-* 🎮 **Random Ideas:** Juegos pequeños, scripts locos y cualquier proyecto que se me cruce en la cabeza.
-
 ---
 
 ### 🐛 VIBES & STATUS
@@ -86,5 +73,5 @@ HTML / CSS (Make it pretty)
 JavaScript (Please work)
 ████████░░░░░░░░░░░░  40%
 
-Café / Energía para programar
-████████████████████  99%
+Python
+█████░░░░░░░░░░░░░░░  99%
