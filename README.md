@@ -42,7 +42,7 @@ but a lot of thanks for the creator.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <div style="position: relative; display: inline-block;">
   <!-- Tu imagen o GIF animado -->
-  <img src="https://giphy.com/gifs/g1ft3d-art-cat-g1ft3d-sIfLhexLUqwik" width="100%" />
+  <img src="https://i.pinimg.com/1200x/5a/17/6c/5a176c32815012e06d7279e4f1b446b3.jpg" width="100%" />
   
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px #000000;">
     Hey! I'm Juni 🐈
