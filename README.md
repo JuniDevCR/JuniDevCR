@@ -50,6 +50,10 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 
 ---
 
