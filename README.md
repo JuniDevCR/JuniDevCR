@@ -64,14 +64,6 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 </a>
 
 <br><br>
-
-### 📊 GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuniDevCR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
-
-</div>
-
 ---
 
 ### 🐛 CURRENTLY LEARNING
