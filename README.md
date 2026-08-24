@@ -38,8 +38,8 @@ but a lot of thanks for the creator.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <div align="center">
 
-<!-- Banner animado y personalizado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey!%20I'm%20Juni%20🐈&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<!-- Banner con GIF animado en el código -->
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
