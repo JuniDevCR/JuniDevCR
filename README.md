@@ -133,18 +133,18 @@ Users shouldn't have to sell their soul to customize a button.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python," />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,unity,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 # 🐛 CURRENTLY LEARNING
 
 ```text
-Larping Linux
+How to larp linux
 ████████████████████  100%
 
 HTML / CSS
