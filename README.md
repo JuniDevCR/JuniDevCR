@@ -38,13 +38,18 @@ but a lot of thanks for the creator.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <div align="center">
 
-<!-- Banner animado al estilo Nyan Cat con tu nombre -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=Hey!%20I'm%20Juni%20🐈&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ff75d1" width="100%" />
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/QH3HlC2uV7sAAAAi/nyan-cat-nyan.gif" width="120" />
-</p>
+<div style="position: relative; display: inline-block;">
+  <!-- Tu imagen o GIF animado -->
+  <img src="https://giphy.com/gifs/g1ft3d-art-cat-g1ft3d-sIfLhexLUqwik" width="100%" />
+  
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px #000000;">
+    Hey! I'm Juni 🐈
+  </h1>
+</div>
 
+</div>
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
 *"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
