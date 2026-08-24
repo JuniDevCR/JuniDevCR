@@ -49,7 +49,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 <br>
 
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
-<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/TVQh8e98K9IAAAAj/isaac-specialist.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
