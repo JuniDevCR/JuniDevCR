@@ -144,21 +144,15 @@ Users shouldn't have to sell their soul to customize a button.
 # 🐛 CURRENTLY LEARNING
 
 ```text
-JavaScript
-██████████░░░░░░░░░░  50%
-
-Python
-███████████░░░░░░░░░  55%
+Larping Linux
+████████████████████  100%
 
 HTML / CSS
-██████████████░░░░░░  70%
+████████████░░░░░░░░  60%
 
-Unity
-███████████░░░░░░░░░  55%
+JavaScript
+████████░░░░░░░░░░░░  40%
 
-Git / GitHub
-██████████░░░░░░░░░░  50%
-
-Knowing what I'm doing
-██░░░░░░░░░░░░░░░░░░  10%
+Python
+██████░░░░░░░░░░░░░░  30%
 ```
