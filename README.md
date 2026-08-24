@@ -51,7 +51,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/TVQh8e98K9IAAAAj/isaac-specialist.gif" width="100">
 <img src="https://media.tenor.com/xXK_hvWITqEAAAAi/niko-dance.gif" width="100">
-<img src="https://media.tenor.com/OrZGcpbiJcwAAAAi/ralsei.gif" width="100">
+<img src="https://media.tenor.com/m_B8Kxn9SsAAAAAi/ralsei-gangnam-style.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 
