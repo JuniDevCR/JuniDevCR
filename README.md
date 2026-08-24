@@ -48,7 +48,7 @@ Muchísimas gracias al creador original de este pedazo de arte ASCII. 🖤
 Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
 <br>
 
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 
 ---
 
