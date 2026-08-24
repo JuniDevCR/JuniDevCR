@@ -49,7 +49,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=JuniDevCR&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
 
@@ -68,7 +68,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 ### 📊 GITHUB STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=JuniDevCR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="top languages" />
 
 </div>
 
