@@ -48,10 +48,13 @@ Muchísimas gracias al creador original de este pedazo de arte ASCII. 🖤
 Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
 <br>
 
+<img src="https://media.tenor.com/2NEAXCpXziIAAAAj/tenna-tenna-dance.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/TVQh8e98K9IAAAAj/isaac-specialist.gif" width="100">
 <img src="https://media.tenor.com/xXK_hvWITqEAAAAi/niko-dance.gif" width="100">
-<img src="https://media.tenor.com/2NEAXCpXziIAAAAj/tenna-tenna-dance.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
+<img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="100">
 <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="100">
 
