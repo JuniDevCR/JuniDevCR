@@ -56,7 +56,7 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 <img src="https://media.tenor.com/T_avUEk3aWwAAAAi/catgroove7tv-catgroove.gif" width="100">
 <img src="https://media.tenor.com/0_JeVD0Ner4AAAAj/roach-rainbow.gif" width="100">
 <img src="https://media.tenor.com/QWWs66eJTQgAAAAi/tf2-spy.gif" width="100">
-<img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="100">
+<img src="https://media.tenor.com/2NEAXCpXziIAAAAj/tenna-tenna-dance.gif" width="100">
 
 ---
 
