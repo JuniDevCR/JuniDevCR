@@ -81,8 +81,8 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 ### 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JuniDevCR&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=dracula&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JuniDevCR&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=dracula&hide_border=true&cache_seconds=1" width="45%" />
 </div>
 
 <br>
