@@ -85,14 +85,18 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 ### 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniDevCR&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=dracula&hide_border=true" height="150" alt="top langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuniDevCR&show_icons=true&theme=dracula&hide_border=true" alt="JuniDevCR GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniDevCR&layout=compact&theme=dracula&hide_border=true" alt="JuniDevCR Top Languages" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniDevCR&theme=dracula&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniDevCR&theme=dracula&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
