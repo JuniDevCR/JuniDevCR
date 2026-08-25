@@ -33,12 +33,11 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 I didn't do this btw I just copy this thing from google.
-Muchísimas gracias al creador original de este pedazo de arte ASCII. 🖤
+Thanks for the original creator for doing this ASCII masterpiece. 🖤
 -->
 
 <div align="center">
 
-<!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey!%20I'm%20Juni%20🐈&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
