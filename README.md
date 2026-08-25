@@ -37,7 +37,8 @@
 <img src="https://i.pinimg.com/1200x/31/6a/80/316a800df7b6bdd12ca30167183bfbb7.jpg" style="width: 100%; height: 100px; object-fit: fill;">
 
 <div align="center">
-
+ 
+**Hey! I'm Juni**
 
 <img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
