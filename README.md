@@ -38,8 +38,11 @@
 
 <div align="center">
 
- # Hey! I'm Juni
+<h2 align="center">Hey! I'm Juni</h2>
 
+<p align="center">
+  <img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
+</p>
 <img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
  ### `Developer` • `WebMaster` • `Professional Bug Generator`
