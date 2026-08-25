@@ -42,6 +42,8 @@
 
 # Hey! I'm Juni
 
+<img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
+
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
 *"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
