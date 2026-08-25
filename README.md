@@ -57,8 +57,9 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 </div>
 
-<img src="https://i.pinimg.com/736x/49/c7/2e/49c72efd0c55f76befb2ce2bb88ef96f.jpg" width="150" >
-
+<div aling="center">
+  <img src="https://i.pinimg.com/736x/49/c7/2e/49c72efd0c55f76befb2ce2bb88ef96f.jpg" width="150" >
+</div>
 ---
 
 ### 📌 ABOUT ME
