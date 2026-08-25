@@ -40,7 +40,7 @@
 
 <div align="center">
 
-# Hey! I'm Juni
+ Hey! I'm Juni
 <img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
