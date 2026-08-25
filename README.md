@@ -36,19 +36,17 @@
 
 <img src="https://i.pinimg.com/1200x/31/6a/80/316a800df7b6bdd12ca30167183bfbb7.jpg" style="width: 100%; height: 100px; object-fit: fill;">
 
-
-
 <div align="center">
 
  # Hey! I'm Juni
+
+<img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
  ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
 *"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
 
 Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
-
-<img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
