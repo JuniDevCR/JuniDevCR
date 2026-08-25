@@ -47,10 +47,6 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuniDevCR&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</p>
-
 <img src="https://media.tenor.com/2NEAXCpXziIAAAAj/tenna-tenna-dance.gif" width="90">
 <img src="https://media.tenor.com/cmUqm9xgkggAAAAj/lain-dancing.gif" width="90">
 <img src="https://media.tenor.com/TVQh8e98K9IAAAAj/isaac-specialist.gif" width="90">
