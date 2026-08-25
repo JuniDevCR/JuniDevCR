@@ -33,7 +33,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 -->
-<img src="https://i.pinimg.com/1200x/d3/fc/36/d3fc36d30a197051713231ec8e9e3283.jpg" width="100">
+
+<img src="https://i.pinimg.com/1200x/31/6a/80/316a800df7b6bdd12ca30167183bfbb7.jpg" style="width: 100%; height: 200px; object-fit: fill;">
+
 
 
 <div align="center">
