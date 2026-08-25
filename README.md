@@ -1,4 +1,3 @@
-<!-- ASCII Art original por su autor respectivo -->
 <!--
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⢤⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣶⣧⣐⠍⢙⣀⣼⣿⣿⣅⡐⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -93,14 +92,18 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 
 ---
 
-### 🐛 VIBES & STATUS
+### 🐛 General stats
 
-```text
-How to larp linux
+Linux larper ( Senior)
 ████████████████████  100%
 
-HTML / CSS (Make it pretty)
+Distro hopper ( Just a few )
 ████████████░░░░░░░░  60%
 
-JavaScript (Please work)
+Rice enthusiast ( Oh yeah )
 ████████░░░░░░░░░░░░  40%
+
+Vibe coder ( Just a little bit )
+███░░░░░░░░░░░░░░░░░  15% 
+
+---
