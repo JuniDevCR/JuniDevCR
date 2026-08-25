@@ -48,12 +48,6 @@
 
 Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
 
-### `Developer` • `WebMaster` • `Professional Bug Generator`
-
-*"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
-
-Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
-
 <br>
 
 <img src="https://media.tenor.com/2NEAXCpXziIAAAAj/tenna-tenna-dance.gif" width="90">
