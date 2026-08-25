@@ -40,7 +40,14 @@
 
 <div align="center">
 
- Hey! I'm Juni
+ # Hey! I'm Juni
+
+ ### `Developer` • `WebMaster` • `Professional Bug Generator`
+
+*"I'm half of a dev, so don't worry about all the weird stuff that you are going to see."* 👾
+
+Welcome to my little corner of GitHub. I just want to learn a lot of programming things by doing websites, games, or whatever catches my eye at the time!
+
 <img src="https://media.tenor.com/PnuoQnKXre4AAAAi/ralsei-waving.gif" width="100" >
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
