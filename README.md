@@ -36,7 +36,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey!%20I'm%20Juni%20🐈&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 ### `Developer` • `WebMaster` • `Professional Bug Generator`
 
