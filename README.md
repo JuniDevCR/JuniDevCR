@@ -95,19 +95,3 @@ Welcome to my little corner of GitHub. I just want to learn a lot of programming
 </div>
 
 ---
-
-### 🐛 General stats
-
-Linux larper
-████████████████████  100%
-
-Distro hopper
-████████████░░░░░░░░  60%
-
-Rice enthusiast
-████████░░░░░░░░░░░░  40%
-
-Vibe coder
-███░░░░░░░░░░░░░░░░░  15% 
-
----
